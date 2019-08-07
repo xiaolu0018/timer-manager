@@ -4,7 +4,9 @@ dependency Es6
 
 # example
   import timer from './timer.js'
+
   ...
+
   timer.setIn(fn,delay,inkey[,param])
 
   //fn for callback:Function
